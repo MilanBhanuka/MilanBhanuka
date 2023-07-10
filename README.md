@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan Bhanuka</h1>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <h3 align="center">Undergraduate at University of Colombo School of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanbhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="milanbhanuka" /> </p>
