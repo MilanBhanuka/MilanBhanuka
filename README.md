@@ -29,3 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milanbhanuka&" alt="milanbhanuka" /></p>
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilanBhanuka&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilanBhanuka&theme=monokai)
+[![](https://github-readme-streak-stats.herokuapp.com?user=MilanBhanuka&theme=soft-green)](https://git.io/streak-stats)
+
