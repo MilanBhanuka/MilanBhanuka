@@ -25,6 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilanBhanuka&show_icons=true&locale=en&layout=compact" alt="MilanBhanuka" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilanBhanuka&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilanBhanuka&theme=monokai)
 [![](https://github-readme-streak-stats.herokuapp.com?user=MilanBhanuka&theme=soft-green)](https://git.io/streak-stats)
 
