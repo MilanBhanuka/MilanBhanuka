@@ -68,3 +68,4 @@
 
 </div>
 
+[![An image of @milanbhanuka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milanbhanuka)](https://holopin.io/@milanbhanuka)
