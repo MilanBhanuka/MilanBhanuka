@@ -67,3 +67,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MilanBhanuka&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)](https://git.io/streak-stats)
 
 </div>
+
+
+[![An image of @milanbhanuka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milanbhanuka)](https://holopin.io/@milanbhanuka)
