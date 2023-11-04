@@ -72,29 +72,27 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
-###
-<div id="languages" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilanBhanuka&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="MilanBhanuka" />
-</div>
-<hr>
-<h3 align="center">GitHub Stats</h3>
-<br>
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=MilanBhanuka&style=flat-square&color=blue" alt=""/>
-</div>
-<br>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilanBhanuka&theme=github_dark"/> </p>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilanBhanuka&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilanBhanuka&theme=github_dark"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanBhanuka&langs_count=8&theme=blue-green" alt=MilanBhanuka />
+<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilanBhanuka&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilanBhanuka&theme=blue_green" height="180em" />
 </div>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
+<a href="https://github.com/MilanBhanuka">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilanBhanuka&theme=blue-green" height="180em" />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MilanBhanuka&theme=blue-green" alt="MilanBhanuka" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MilanBhanuka&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)](https://git.io/streak-stats)
-
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilanBhanuka&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilanBhanuka&theme=blue_green" height="180em" />
 </div>
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MilanBhanuka&theme=github-compact"/>
 
 
 [![An image of @milanbhanuka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milanbhanuka)](https://holopin.io/@milanbhanuka)
