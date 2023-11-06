@@ -2,14 +2,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<hr>
+
 <h2 align="center">Undergraduate at University of Colombo School of Computing</h2>
 
-<p align="center> <img src="https://komarev.com/ghpvc/?username=MilanBhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="MilanBhanuka" /> </p>
+<div align="center">
+  <p align="center> <img src="https://komarev.com/ghpvc/?username=MilanBhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="MilanBhanuka" /> </p>
 🌱 I’m currently learning Computer Science
 
 📫 How to reach me **vgmbhanuka@gmail.com**
-<hr>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,7 +22,7 @@
 <a href="https://www.hackerrank.com/vgmbhanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vgmbhanuka" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vgmbhanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vgmbhanuka" height="30" width="40" /></a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
