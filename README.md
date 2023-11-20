@@ -5,12 +5,14 @@
 
 <h2 align="center">Undergraduate at University of Colombo School of Computing</h2>
 
-<div align="center">
+
 <p align="center>  
+  
 👨‍💻 I’m currently learning Computer Science
+
 📫 How to reach me **vgmbhanuka@gmail.com**
+  
 </p>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
