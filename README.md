@@ -6,10 +6,8 @@
 <h2 align="center">Undergraduate at University of Colombo School of Computing</h2>
 
 <div align="center">
-<p align="center>
-  
+<p align="center>  
 👨‍💻 I’m currently learning Computer Science
-
 📫 How to reach me **vgmbhanuka@gmail.com**
 </p>
 </div>
