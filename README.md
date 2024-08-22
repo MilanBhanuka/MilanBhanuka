@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing**
-- 👀 I’m interested in **software developing**, **UI/UX designing**
+- 👀 I’m interested in **Fullstack Development**, **Frontend Development** & **Software QA Engineering**
 - 📫 How to reach me: **vgmbhanuka@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
